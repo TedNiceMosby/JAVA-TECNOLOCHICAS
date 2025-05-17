@@ -1,0 +1,1 @@
+Fallo al procesar archivo 'errores.log': C:\Users\USUARIO\Desktop\Java\Tecnolochicas JAVA\Codigos\S7_R1\config
